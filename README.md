@@ -52,3 +52,38 @@ x
 
 
 x
+
+
+> Valores
+
+- .
+- .
+- .
+- .
+- .
+- .
+
+
+> Estrutura Organizacional 
+
+
+ <div id="top"></div>
+<p align="center">
+      <img src="" width="90%" height="90%">
+<p align="center">
+
+
+
+> Análise SWOT
+
+
+<div id="top"></div>
+<p align="center">
+      <img src="" width="90%" height="90%">
+<p align="center">
+
+
+# Equipe
+
+</details>
+
