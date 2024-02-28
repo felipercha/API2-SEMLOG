@@ -31,3 +31,24 @@ Sprint | Previsão | Status| Histórico|
 |02|  00/00/2024| Não iniciado |[Ver Relatório]() | 
 |03| 00/00/2024| Não iniciado |[Ver Relatório]() | 
 |04| 00/00/2024 | Não iniciado |[Ver Relatório]()  | 
+
+# Empresa
+
+> Logo
+
+
+<div id="top"></div>
+<p align="center">
+      <img src="" width="50%" height="50%">
+<p align="center">
+
+> Missão
+
+
+x
+
+
+> Visão
+
+
+x
