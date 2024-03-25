@@ -71,7 +71,7 @@ x
 
  <div id="top"></div>
 <p align="center">
-      <img src="Organograma.png" width="90%" height="90%">
+      <img src="Organograma.png" width="60%" height="60%">
 <p align="center">
 
 
@@ -139,7 +139,7 @@ x
  
  <div id="top"></div>
 <p align="center">
-      <img src="" width="50%" height="50%">
+      <img src="Tecnologias de apoio.png" width="50%" height="50%">
 <p align="center">
 
 
