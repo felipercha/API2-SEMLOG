@@ -71,7 +71,7 @@ x
 
  <div id="top"></div>
 <p align="center">
-      <img src="" width="90%" height="90%">
+      <img src="Organograma.png" width="90%" height="90%">
 <p align="center">
 
 
