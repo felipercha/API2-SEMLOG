@@ -44,28 +44,6 @@ Sprint | Previsão | Status| Histórico|
       <img src="" width="50%" height="50%">
 <p align="center">
 
-> Missão
-
-
-x
-
-
-> Visão
-
-
-x
-
-
-> Valores
-
-- .
-- .
-- .
-- .
-- .
-- .
-
-
 > Estrutura Organizacional 
 
 
@@ -74,15 +52,6 @@ x
       <img src="Organograma.png" width="60%" height="60%">
 <p align="center">
 
-
-
-> Análise SWOT
-
-
-<div id="top"></div>
-<p align="center">
-      <img src="" width="90%" height="90%">
-<p align="center">
 
 
 # Equipe
