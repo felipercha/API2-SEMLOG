@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="" width="50%" height="50%">
+      <img src="Image.jpg" width="60%" height="60%">
 <p align="center">
 
 > Estrutura Organizacional 
