@@ -20,7 +20,7 @@ Projeto baseado na metodologia ágil SCRUM, a fim de demonstrar entendimento sob
 # Projeto (API) 
 
 
-Geografia do fluxo de exportação de cargar e previões de movimentações futuras de cargas.
+Geografia do fluxo de exportação de carga e previões de movimentações futuras.
 
 
 
@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="Image.jpg" width="60%" height="60%">
+      <img src="Image.jpg" width="30%" height="30%">
 <p align="center">
 
 > Estrutura Organizacional 
@@ -76,19 +76,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-:
-
--
-
-- 
-  
-- 
-  
-- 
-
-- 
-
-- 
+- Desenvolver um Dashboard que permita, identificar os modais utilizados na geografia de fluxos de exportação de cargas no estado de São Paulo e previsões de futuras movimentações de cargas. 
 
 # Funcionalidades e Registros 
 
