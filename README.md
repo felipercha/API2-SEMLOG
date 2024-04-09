@@ -104,7 +104,7 @@ Sprint | Previsão | Status| Histórico|
 
  > Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma [(clique aqui)]()
+#### Cronograma [(clique aqui)](https://loadssolution.atlassian.net/jira/software/c/projects/API2/boards/3/timeline?assignee=unassigned%2C712020%3Adbe6bd99-cd47-4a1c-a0bf-47e6254dfec1%2C712020%3A5c2f4eb5-2905-45ba-879d-7e8afe185438&shared=&atlOrigin=eyJpIjoiYzNmMDA1YmY1M2Q4NDQ3NWFmYWE4MGZkNTZlYmY5ODQiLCJwIjoiaiJ9)
 
 
 
