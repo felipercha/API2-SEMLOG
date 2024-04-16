@@ -58,12 +58,11 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 
 > Valores
 
-- 
-- Colaboração.
-- Satisfação
-- Inclusão.
-- Inovação.
-- Educação.
+
+<div id="top"></div>
+<p align="center">
+      <img src="Image.jpg" width="30%" height="30%">
+<p align="center">
 
 > Estrutura Organizacional 
 
