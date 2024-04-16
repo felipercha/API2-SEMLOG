@@ -44,6 +44,27 @@ Sprint | Previsão | Status| Histórico|
       <img src="Image.jpg" width="30%" height="30%">
 <p align="center">
 
+> Missão
+
+
+Facilitar o comércio global através de soluções logísticas inovadoras e eficiente, implusionando o crescimento sustentável de nossos clientes, parceiros e comunidades. 
+
+
+> Visão
+
+
+Ser destaque em parcerias de exportação, reconhecida pela excelência operacional, integridade e compromisso com a satisfação do cliente em todos os continentes. 
+
+
+> Valores
+
+- 
+- Colaboração.
+- Satisfação
+- Inclusão.
+- Inovação.
+- Educação.
+
 > Estrutura Organizacional 
 
 
