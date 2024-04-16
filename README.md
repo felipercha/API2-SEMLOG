@@ -61,7 +61,7 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 
 <div id="top"></div>
 <p align="center">
-      <img src="Image.jpg" width="30%" height="30%">
+      <img src="valores.jpeg" width="50%" height="50%">
 <p align="center">
 
 > Estrutura Organizacional 
