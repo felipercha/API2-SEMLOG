@@ -108,6 +108,14 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 
  > Sprint 1
 
+* Relações entre tabelas de fatos e dimensões no ano de 2023
+  
+* Gráfico de Valor FOB por País: Valores totais das exportações do Estado de SP.
+
+* Gráfico de Valor Fob por Via: Dados referentes às vias mais utilizadas nas exportações do Estado de SP.
+
+* Gráfico de KG Líquido por País: Dados relativos ao peso exportado pelo estado de SP para cada país, destacando aqueles que mais importaram em termos de quilogramas líquidos. 
+
 <div id="top"></div>
 <p align="center">
       <img src="Backlog1.png" width="60%" height="60%">
