@@ -118,7 +118,7 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 
 <div id="top"></div>
 <p align="center">
-      <img src="Backlog1.png" width="60%" height="60%">
+      <img src="printdashboard.png" width="90%" height="90%">
 <p align="center">
 
 
