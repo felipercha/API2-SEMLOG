@@ -106,10 +106,13 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 
   O objetivo do dashboard é fornecer ao cliente uma vizualização simples e ágil dos indicadores.
 
+ > Sprint 1
+
 <div id="top"></div>
 <p align="center">
-      <img src="" width="10%" height="10%">
+      <img src="" width="80%" height="80%">
 <p align="center">
+
 
 
  ### Tecnológias de Apoio
@@ -138,11 +141,6 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
       <img src="Backlog1.1.png" width="80%" height="80%">
 <p align="center">
 
-<div id="top"></div>
-<p align="center">
-      <img src="" width="80%" height="80%">
-<p align="center">
- 
   > Sprint 2
 
 <div id="top"></div>
