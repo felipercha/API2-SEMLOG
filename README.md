@@ -27,7 +27,7 @@ Geografia do fluxo de exportação de carga e previões de movimentações futur
  
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | Não iniciado | [Ver Relatório]() | 
+|Kick Off | 11/03/2024 | Não iniciado | [Ver Relatório](Kick-off API 1M.pptx) | 
 |01| 18/04/2024 | Não iniciado | [Ver Relatório](API - Sprint 1.pdf)| 
 |02| 09/05/2024| Não iniciado |[Ver Relatório]() | 
 |03| 30/05/2024| Não iniciado |[Ver Relatório]() | 
