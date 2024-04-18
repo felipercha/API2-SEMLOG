@@ -118,7 +118,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="Backlog do produto.png" width="70%" height="70%">
+      <img src="" width="70%" height="70%">
 <p align="center">
 
 # Produto   
