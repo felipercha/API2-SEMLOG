@@ -106,6 +106,14 @@ Sprint | Previsão | Status| Histórico|
 * Tecnologias especifícas
 * Metodologia ágil (Scrum) 
 
+# Tecnologias Especifícas/Apoio
+
+* Jira Software
+* GitHub
+* Slack
+* Power Bi
+* Pacote Office
+  
 # Backlog do produto
 
 <div id="top"></div>
