@@ -90,7 +90,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | Concluído | [Ver Relatório]() | 
 |01| 18/04/2024 | Concluído | [Ver Relatório]()| 
-|02| 09/05/2024| Não iniciado |[Ver Relatório]() | 
+|02| 09/05/2024| Iniciado |[Ver Relatório]() | 
 |03| 30/05/2024| Não iniciado |[Ver Relatório]() | 
 |04| 20/06/2024 | Não iniciado |[Ver Relatório]()  | 
 |Feira de Soluções| 27/06/2024 | Não iniciado |[Ver Relatório]()  | 
@@ -128,6 +128,35 @@ Sprint | Previsão | Status| Histórico|
 <p align="center">
       <img src="" width="70%" height="70%">
 <p align="center">
+
+## Sprint 1. Concepção
+
+- [x] Extração e estruturação da Base de dados no PowerBi
+- [x] Estruturação do repositório
+- [x] Estruturação da plataforma de gerenciamento de tarefas (Jira Sotfware)
+- [x] Desenvolvimento dos dados inicias em gráficos
+- [x] Registro técnico do desenvolvimento do projeto
+
+## Sprint 2. Desenvolvimento 
+
+- [ ] Identificação das siglas
+- [ ] Desenvolvimento de gráfico pra identificar rotas de transporte
+- [ ] Desenvolvimento de gráfico para identiciar as cargas e paises
+- [ ] Sincronizar URF COM rotas de transporte gráficamente
+- [ ] Registro técnico do desenvolvimento do projeto
+
+## Sprint 3. Implementação
+
+- [ ] Desenvolvimento de um Dashboard com a geografia de fluxo de exportação graficamente 
+- [ ] Criar Regressão Linear
+- [ ] Aplicar Linha de Tendência
+- [ ] Registro técnico do desenvolvimento do projeto
+
+## Sprint 4. Operacionalização 
+
+- [ ] Análise dos resultados gerados pelo projeto
+- [ ] Correção e Melhorias
+- [ ] Registro técnico do desenvolvimento do projeto 
 
 # Burnup
   
