@@ -104,18 +104,9 @@ Sprint | Previsão | Status| Histórico|
 
   
 
-# Burndown
+# Burnup
 
-## Burndown 1. 
-
-<div id="top"></div>
-<p align="center">
-      <img src="" width="80%" height="80%">
-<p align="center">
-
-
-
-## Burndown 2. 
+## Burnup 1. 
 
 <div id="top"></div>
 <p align="center">
@@ -124,7 +115,16 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-## Burndown 3. 
+## Burnup 2. 
+
+<div id="top"></div>
+<p align="center">
+      <img src="" width="80%" height="80%">
+<p align="center">
+
+
+
+## Burnup 3. 
 
 <div id="top"></div>
 <p align="center">
