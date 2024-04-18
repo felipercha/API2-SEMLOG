@@ -1,9 +1,6 @@
 
-# Projeto Integrador (API2) - Template
+# Projeto Integrador (API2) 2° Semestre 
 
-Template do Projeto integrador do 2º Semestre do Curso Superior em Logística, com o objetivo de demonstrar conhecimento, em relação a modais de transporte, conceitos de tendência e projeções. 
-
-Projeto baseado na metodologia ágil SCRUM, a fim de demonstrar entendimento sobre a importância do uso do conhecimento técnico e científico, e suas tecnologias, para a resolução de desafios acadêmicos e empresariais.
 
 # Índice
 
