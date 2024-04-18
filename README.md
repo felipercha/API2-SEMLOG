@@ -95,6 +95,17 @@ Sprint | Previsão | Status| Histórico|
 |04| 20/06/2024 | Não iniciado |[Ver Relatório]()  | 
 |Feira de Soluções| 27/06/2024 | Não iniciado |[Ver Relatório]()  | 
 
+# Regras de Negócio 
+
+> Requisitos Funcionais
+
+* Estrutura de Base de Dados 
+* Geografia de fluxos de exportação do estado de São Paulo representados graficamente.
+* Linha de Tendência 
+> Requisitos não funcionais 
+* Tecnologias especifícas
+* Metodologia ágil (Scrum) 
+
 # Backlog do produto
 
 <div id="top"></div>
