@@ -123,6 +123,12 @@ Sprint | Previsão | Status| Histórico|
 
 # Produto   
 * Link para acessar o produto.
+
+  <div id="top"></div>
+<p align="center">
+      <img src="" width="70%" height="70%">
+<p align="center">
+
 # Burnup
   
 ## Burnup 1. 
