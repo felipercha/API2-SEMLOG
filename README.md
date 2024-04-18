@@ -95,64 +95,7 @@ Sprint | Previsão | Status| Histórico|
 |04| 20/06/2024 | Não iniciado |[Ver Relatório]()  | 
 |Feira de Soluções| 27/06/2024 | Não iniciado |[Ver Relatório]()  | 
 
-
-# Funcionalidades e Registros 
-
-> MVP :  Dashboard de indicadores
-
-[Ver MVP]()
-
-  O objetivo do dashboard é fornecer ao cliente uma vizualização simples e ágil dos indicadores.
-
- > Sprint 1
-
-* Relações entre tabelas de fatos e dimensões no ano de 2023
-  
-* Gráfico de Valor FOB por País: Valores totais das exportações do Estado de SP.
-
-* Gráfico de Valor Fob por Via: Dados referentes às vias mais utilizadas nas exportações do Estado de SP.
-
-* Gráfico de KG Líquido por País: Dados relativos ao peso exportado pelo estado de SP para cada país, destacando aqueles que mais importaram em termos de quilogramas líquidos. 
-
-<div id="top"></div>
-<p align="center">
-      <img src="printdashboard.png" width="90%" height="90%">
-<p align="center">
-
-
-
- ### Tecnológias de Apoio
- 
- <div id="top"></div>
-<p align="center">
-      <img src="Tecnologias de apoio.png" width="50%" height="50%">
-<p align="center">
-
 # Backlog do produto
-
-  > Sprint 1
-
-<div id="top"></div>
-<p align="center">
-      <img src="Backlog1.1.png" width="80%" height="80%">
-<p align="center">
-
-  > Sprint 2
-
-<div id="top"></div>
-<p align="center">
-      <img src="" width="80%" height="80%">
-<p align="center">
-
-  > Sprint 3
-
-<div id="top"></div>
-<p align="center">
-      <img src="" width="80%" height="80%">
-<p align="center">
-
-  > Sprint 4
-
 
 <div id="top"></div>
 <p align="center">
