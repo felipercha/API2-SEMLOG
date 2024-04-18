@@ -19,18 +19,6 @@
 
 Geografia do fluxo de exportação de carga e previões de movimentações futuras.
 
-
-
- 
-Sprint | Previsão | Status| Histórico|
-|------|--------|------|--------|
-|Kick Off | 11/03/2024 | Concluído | [Ver Relatório]() | 
-|01| 18/04/2024 | Concluído | [Ver Relatório]()| 
-|02| 09/05/2024| Não iniciado |[Ver Relatório]() | 
-|03| 30/05/2024| Não iniciado |[Ver Relatório]() | 
-|04| 20/06/2024 | Não iniciado |[Ver Relatório]()  | 
-|Feira de Soluções| 27/06/2024 | Não iniciado |[Ver Relatório]()  | 
-
 # Empresa
 
 > Logo
@@ -77,7 +65,7 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Cleocirene Fonseca    |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleo-fonseca-07991b287) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Cleofonseca)              |
+| Product Owner | Cleocirene Fonseca |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleo-fonseca-07991b287) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Cleofonseca)              |
 | Scrum Master  | Yasmin Isabele F. G Dos Santos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()     |
 | Team Scrum   | Felipe Rocha  Macedo      |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rocha-36a652230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipercha)        |
 |  Team Scrum  | Katia Patrícia Viana                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katia-patr%C3%ADcia-viana-171514244) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/katiaviana/info)        |
@@ -94,6 +82,19 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 # Objetivo do Projeto
 
 - Desenvolver um Dashboard que permita, identificar os modais utilizados na geografia de fluxos de exportação de cargas no estado de São Paulo e previsões de futuras movimentações de cargas. 
+
+
+# Cronograma das Sprints 
+
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off | 11/03/2024 | Concluído | [Ver Relatório]() | 
+|01| 18/04/2024 | Concluído | [Ver Relatório]()| 
+|02| 09/05/2024| Não iniciado |[Ver Relatório]() | 
+|03| 30/05/2024| Não iniciado |[Ver Relatório]() | 
+|04| 20/06/2024 | Não iniciado |[Ver Relatório]()  | 
+|Feira de Soluções| 27/06/2024 | Não iniciado |[Ver Relatório]()  | 
+
 
 # Funcionalidades e Registros 
 
@@ -126,16 +127,6 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 <p align="center">
       <img src="Tecnologias de apoio.png" width="50%" height="50%">
 <p align="center">
-
-
-## Cronograma das Sprints 
-
- > Ao clicar você será redirecionado ao cronograma detalhado deste projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma [(clique aqui)](https://loadssolution.atlassian.net/jira/software/c/projects/API2/boards/3/timeline?assignee=unassigned%2C712020%3Adbe6bd99-cd47-4a1c-a0bf-47e6254dfec1%2C712020%3A5c2f4eb5-2905-45ba-879d-7e8afe185438&shared=&atlOrigin=eyJpIjoiYzNmMDA1YmY1M2Q4NDQ3NWFmYWE4MGZkNTZlYmY5ODQiLCJwIjoiaiJ9)
-
-
-
 
 # Backlog do produto
 
