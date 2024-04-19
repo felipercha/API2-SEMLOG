@@ -142,14 +142,14 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Identificação das siglas
 - [ ] Desenvolvimento de gráfico pra identificar rotas de transporte
 - [ ] Desenvolvimento de gráfico para identiciar as cargas e paises
-- [ ] Sincronizar URF COM rotas de transporte gráficamente
+- [ ] Sincronizar URF com rotas de transporte gráficamente
 - [ ] Registro técnico do desenvolvimento do projeto
 
 ## Sprint 3. Implementação
 
 - [ ] Desenvolvimento de um Dashboard com a geografia de fluxo de exportação graficamente 
 - [ ] Criar Regressão Linear
-- [ ] Aplicar Linha de Tendência
+- [ ] Aplicar Linha de Tendência e Suavização exponencial 
 - [ ] Registro técnico do desenvolvimento do projeto
 
 ## Sprint 4. Operacionalização 
