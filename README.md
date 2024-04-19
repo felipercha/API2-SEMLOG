@@ -8,11 +8,11 @@
 * [Empresa](#Empresa)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Cronograma das Sprints](#Funcionalidades-e-Registros)
-* [Regras de Negócio](#Cronograma-das-Sprints)
-* [Tecnologias Específicas](#Backlog-do-produto)
-* [Backlog do Produto](#Burndown)
-* [Produtos](#competências-desenvolvidas)
+* [Cronograma das Sprints](#Cronograma-das-Sprints)
+* [Regras de Negócio](#Regras-de-Negócio)
+* [Tecnologias Específicas](#Tecnologias-Específicas)
+* [Backlog do Produto](#Backlog-do-produto)
+* [Produto](#Produto)
 
 # Projeto (API) 
 
