@@ -167,35 +167,6 @@ Sprint | Previsão | Status| Histórico|
       <img src="burnup1.png" width="70%" height="70%">
 <p align="center">
 
-
-
-## Burnup 2. 
-
-<div id="top"></div>
-<p align="center">
-      <img src="" width="80%" height="80%">
-<p align="center">
-
-
-
-## Burnup 3. 
-
-<div id="top"></div>
-<p align="center">
-      <img src="" width="80%" height="80%">
-<p align="center">
-
-
-## Burnup 4. 
-
-
-<div id="top"></div>
-<p align="center">
-      <img src="" width="80%" height="80%">
-<p align="center">
-
-
-
 # Competências desenvolvidas
 
 ## Hard Skill (Saber tecnológico)
