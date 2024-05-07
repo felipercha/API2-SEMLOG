@@ -139,11 +139,11 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 2. Desenvolvimento 
 
-- [ ] Identificação das siglas
-- [ ] Desenvolvimento de gráfico pra identificar rotas de transporte
-- [ ] Desenvolvimento de gráfico para identiciar as cargas e paises
-- [ ] Sincronizar URF com rotas de transporte gráficamente
-- [ ] Registro técnico do desenvolvimento do projeto
+- [x] Identificação das siglas
+- [x] Desenvolvimento de gráfico pra identificar rotas de transporte
+- [x] Desenvolvimento de gráfico para identiciar as cargas e paises
+- [x] Sincronizar URF com rotas de transporte gráficamente
+- [x] Registro técnico do desenvolvimento do projeto
 
 ## Sprint 3. Implementação
 
