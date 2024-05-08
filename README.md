@@ -129,6 +129,11 @@ Sprint | Previsão | Status| Histórico|
       <img src="Telarelações.png" width="70%" height="70%">
 <p align="center">
 
+  <div id="top"></div>
+<p align="center">
+      <img src="" width="70%" height="70%">
+<p align="center">
+      
 ## Sprint 1. Concepção
 
 - [x] Extração e estruturação da Base de dados no PowerBi
