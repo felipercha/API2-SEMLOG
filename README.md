@@ -129,9 +129,10 @@ Sprint | Previsão | Status| Histórico|
       <img src="Telarelações.png" width="70%" height="70%">
 <p align="center">
 
+
   <div id="top"></div>
 <p align="center">
-      <img src="gif dashboard2.gif" width="70%" height="70%">
+      <img src="dashboard para gif222.gif" width="70%" height="70%">
 <p align="center">
       
 ## Sprint 1. Concepção
