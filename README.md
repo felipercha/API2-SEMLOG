@@ -170,7 +170,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="burnup1.png" width="70%" height="70%">
+      <img src="API2/burnup1.png" width="70%" height="70%">
 <p align="center">
 
 # Competências desenvolvidas
