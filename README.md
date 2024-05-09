@@ -132,7 +132,7 @@ Sprint | Previsão | Status| Histórico|
 
   <div id="top"></div>
 <p align="center">
-      <img src="dashboard para gif222.gif" width="70%" height="70%">
+      <img src="API2/dashboard para gif222.gif" width="70%" height="70%">
 <p align="center">
       
 ## Sprint 1. Concepção
