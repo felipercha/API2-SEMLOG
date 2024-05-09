@@ -26,7 +26,7 @@ Geografia do fluxo de exportação de carga e previões de movimentações futur
 
 <div id="top"></div>
 <p align="center">
-      <img src="Image.jpg" width="30%" height="30%">
+      <img src="API2/LOGO.jpg" width="30%" height="30%">
 <p align="center">
 
 > Missão
