@@ -54,7 +54,7 @@ Ser destaque em parcerias de exportação, reconhecida pela excelência operacio
 
  <div id="top"></div>
 <p align="center">
-      <img src="Organograma.png" width="60%" height="60%">
+      <img src="API2/Organograma.png" width="60%" height="60%">
 <p align="center">
 
 
