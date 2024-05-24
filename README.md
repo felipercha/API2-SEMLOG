@@ -153,13 +153,16 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 3. Implementação
 
-- [ ] Desenvolvimento de um Dashboard com a geografia de fluxo de exportação graficamente 
-- [ ] Criar Regressão Linear
-- [ ] Aplicar Linha de Tendência e Suavização exponencial 
-- [ ] Registro técnico do desenvolvimento do projeto
+- [x] Desenvolvimento de um Dashboard com a geografia de fluxo de exportação graficamente 
+- [x] Criar Regressão Linear
+- [x] Aplicar Linha de Tendência e Suavização exponencial 
+- [x] Registro técnico do desenvolvimento do projeto
+- [x] Desenvolvimento da previsão de Janeiro de 2024 
 
 ## Sprint 4. Operacionalização 
 
+- [ ] Desenvolvimento do intervalo de confiança e Coeficiente de determinação
+- [ ] Determinar Top 150 cargas do modal Aquaviário
 - [ ] Análise dos resultados gerados pelo projeto
 - [ ] Correção e Melhorias
 - [ ] Registro técnico do desenvolvimento do projeto 
