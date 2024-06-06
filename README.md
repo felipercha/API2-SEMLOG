@@ -125,13 +125,13 @@ Sprint | Previsão | Status| Histórico|
 
   <div id="top"></div>
 <p align="center">
-      <img src="API2/Telarelações.png" width="70%" height="70%">
+      <img src="API2/Telarelações.png" width="60%" height="60%">
 <p align="center">
 
 
   <div id="top"></div>
 <p align="center">
-      <img src="" width="70%" height="70%">
+      <img src="API2/Captura de tela 2024-06-06 072146.png" width="60%" height="60%">
 <p align="center">
 
 <div id="top"></div>
