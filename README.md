@@ -136,7 +136,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div>
 <p align="center">
-      <img src="" width="70%" height="70%">
+      <img src="API2/Captura de tela 2024-06-06 072238.png" width="60%" height="60%">
 <p align="center">
       
 ## Sprint 1. Concepção
