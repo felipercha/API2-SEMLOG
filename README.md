@@ -121,8 +121,7 @@ Sprint | Previsão | Status| Histórico|
       <img src="API2/Novo backlog.png" width="70%" height="70%">
 <p align="center">
 
-# Produto   
-* Link para acessar o produto.[Dashboard](API2/apiATU.pbix)|
+# Produto  
 
   <div id="top"></div>
 <p align="center">
@@ -132,7 +131,12 @@ Sprint | Previsão | Status| Histórico|
 
   <div id="top"></div>
 <p align="center">
-      <img src="API2/dashboard para gif222.gif" width="70%" height="70%">
+      <img src="" width="70%" height="70%">
+<p align="center">
+
+<div id="top"></div>
+<p align="center">
+      <img src="" width="70%" height="70%">
 <p align="center">
       
 ## Sprint 1. Concepção
