@@ -165,11 +165,11 @@ Sprint | Previsão | Status| Histórico|
 
 ## Sprint 4. Operacionalização 
 
-- [ ] Desenvolvimento do intervalo de confiança e Coeficiente de determinação
-- [ ] Determinar Top 150 cargas do modal Aquaviário
-- [ ] Análise dos resultados gerados pelo projeto
-- [ ] Correção e Melhorias
-- [ ] Registro técnico do desenvolvimento do projeto 
+- [x] Desenvolvimento do intervalo de confiança e Coeficiente de determinação
+- [x] Determinar Top 150 cargas do modal Aquaviário
+- [x] Análise dos resultados gerados pelo projeto
+- [x] Correção e Melhorias
+- [x] Registro técnico do desenvolvimento do projeto 
 
 # Burnup
   
@@ -188,6 +188,13 @@ Sprint | Previsão | Status| Histórico|
 <p align="center">
 
 ## Burnup 3.
+
+<div id="top"></div>
+<p align="center">
+      <img src="API2/Burnup3.png" width="70%" height="70%">
+<p align="center">
+
+      ## Burnup 3.
 
 <div id="top"></div>
 <p align="center">
