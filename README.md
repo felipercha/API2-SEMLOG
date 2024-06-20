@@ -92,7 +92,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 18/04/2024 | Concluído | [Ver Relatório](API2/Relatório-Sprint1.pdf)| 
 |02| 09/05/2024| Concluído |[Ver Relatório](API2/API-Sprint2.docx) | 
 |03| 30/05/2024| Concluído |[Ver Relatório](API2/API-Sprint3.pdf) | 
-|04| 20/06/2024 | Concluído |[Ver Relatório](API2/API-Sprint4.pdf)  | 
+|04| 20/06/2024 | Concluído |[Ver Relatório](API-Sprint4.pdf)  | 
 |Feira de Soluções| 27/06/2024 | Não iniciado |[Ver Relatório]()  | 
 
 # Regras de Negócio 
