@@ -194,11 +194,11 @@ Sprint | Previsão | Status| Histórico|
       <img src="API2/Burnup3.png" width="70%" height="70%">
 <p align="center">
 
-      ## Burnup 3.
+## Burnup 4.
 
 <div id="top"></div>
 <p align="center">
-      <img src="API2/Burnup3.png" width="70%" height="70%">
+      <img src="API2/burnup4.png" width="70%" height="70%">
 <p align="center">
       
 # Competências desenvolvidas
